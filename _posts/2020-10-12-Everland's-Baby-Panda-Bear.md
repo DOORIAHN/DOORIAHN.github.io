@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Everland's Baby Panda Bear
 date: 2020-10-12 03:44:02
 categories: Animal
