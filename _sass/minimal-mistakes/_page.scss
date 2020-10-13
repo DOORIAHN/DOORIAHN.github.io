@@ -55,7 +55,10 @@ body {
 
 .page {
   float:left;
-  width:600px;
+  width:100%;
+ @include breakpoint($small) {
+width:500px;
+  }
   /*
   @include breakpoint($medium) {
     float: right;
