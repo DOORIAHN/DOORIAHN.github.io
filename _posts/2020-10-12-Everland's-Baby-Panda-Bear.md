@@ -12,8 +12,18 @@ comments: true
    It's been about 60 days since he was born and said he weighs 2.5kg and is 41.4cm long.
 
 
-*    Curry Flavored Coffee  All of the pandas are owned by China and lent. If they go wrong, the compensation is enormous and cursed. But if you don't accept it, you can't even refuse because it hurts the face of the Chinese lent. It's a very ambiguous gift.
-*    Lol   After a few years, it should be delivered to China..ㅠㅠ  
-*    ㅎㅏ hoong   Oh it contributes ㅠㅠㅠㅠㅠㅠㅠㅠ  
-*    Wow   A body far more precious than me  
-*    ㅅㅈㄱㄴㅅㄹ   The only likable creature made in China  
+
+![comment](/assets/character/pig.png){:style="width:30px;height:30px;vertical-align:sub;" .character.pig} __Curry Flavored Coffee__  
+All of the pandas are owned by China and lent. If they go wrong, the compensation is enormous and cursed. But if you don't accept it, you can't even refuse because it hurts the face of the Chinese lent. It's a very ambiguous gift.
+
+![comment](/assets/character/chicken.png){:style="width:30px;height:30px;vertical-align:sub;" .character.pig} __Lol__   
+After a few years, it should be delivered to China..ㅠㅠ  
+
+![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .character.pig} __ㅎㅏ hoong__   
+Oh it contributes ㅠㅠㅠㅠㅠㅠㅠㅠ  
+
+![comment](/assets/character/plant.png){:style="width:30px;height:30px;vertical-align:sub;" .character.pig} __Wow__   
+A body far more precious than me  
+
+![comment](/assets/character/goggle.png){:style="width:30px;height:30px;vertical-align:sub;" .character.pig} __ㅅㅈㄱㄴㅅㄹ__   
+The only likable creature made in China  
