@@ -3,7 +3,7 @@ layout:
 title: Everland's Baby Panda Bear
 date: 2020-10-12 03:44:02
 categories: Animal
-tags: Animal
+tags: 
 description: Everland's Baby Panda Bear
 comments: true
 ---
@@ -26,19 +26,19 @@ It's been about 60 days since he was born and said he weighs 2.5kg and is 41.4cm
 
 * * *
 
-![comment](/assets/character/bat.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Curry Flavored Coffee**  
+![comment](/assets/character/mushroom.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Curry Flavored Coffee**  
 All of the pandas are owned by China and lent. If they go wrong, the compensation is enormous and cursed. But if you don't accept it, you can't even refuse because it hurts the face of the Chinese lent. It's a very ambiguous gift.  
   
-![comment](/assets/character/rino.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Lol**  
+![comment](/assets/character/pig.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Lol**  
 After a few years, it should be delivered to China..ㅠㅠ   
   
-![comment](/assets/character/pig.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **ㅎㅏ hoong**  
+![comment](/assets/character/rino.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **ㅎㅏ hoong**  
 Oh it contributes ㅠㅠㅠㅠㅠㅠㅠㅠ   
   
-![comment](/assets/character/turtle.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Wow**  
+![comment](/assets/character/ghost.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Wow**  
 A body far more precious than me   
   
-![comment](/assets/character/ghost.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **ㅅㅈㄱㄴㅅㄹ**  
+![comment](/assets/character/bee.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **ㅅㅈㄱㄴㅅㄹ**  
 The only likable creature made in China   
   
 
