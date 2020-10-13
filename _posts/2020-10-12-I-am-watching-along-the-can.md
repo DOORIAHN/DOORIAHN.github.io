@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title: I am watching along the can
 date: 2020-10-12 02:52:02
 categories: Go Young-hee
@@ -18,8 +18,6 @@ comments: true
 
 * * *
 
-~~~~
-
 ![comment](/assets/character/plant.png){:style="width:30px;height:30px;vertical-align:sub;" .character.pig}
 
 ![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment.icon} **은하철도9부려**  
@@ -36,5 +34,3 @@ comments: true
 
 ![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment.icon} **울집개이름놀놀이**  
 삼색이그만 ㅋㅋ   
-
-~~~~
