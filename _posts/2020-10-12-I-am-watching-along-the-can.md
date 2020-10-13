@@ -1,5 +1,5 @@
 ---
-layout:
+layout: 
 title: I am watching along the can
 date: 2020-10-12 02:52:02
 categories: Go Young-hee
@@ -8,29 +8,29 @@ description: I am watching along the can
 comments: true
 ---
 
-걱정마 언니가 어떻게해서든 너 간식 줄게 X바
+Don't worry, my sister will give you a snack somehow
 
 ![](https://blog.kakaocdn.net/dn/b9luxV/btqKEySiA5o/jwsiTcS1RBzFpmZaWM86U0/img.jpg)
 
-<https://twitter.com/Dh9zQ/status/1309349389874245633?s=19>
+[https://twitter.com/Dh9zQ/status/1309349389874245633?s=19](<https://twitter.com/Dh9zQ/status/1309349389874245633?s=19>)
 
-하필 캔뚜껑 손잡이만 떨어져나갔나봄ㅋㅋㅋㅋㅋㅋㅋ
+I guess only the handle of the can lid fell off hahahahahahaha
 
 * * *
 
-![comment](/assets/character/plant.png){:style="width:30px;height:30px;vertical-align:sub;" .character.pig}
+![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Galaxy Railway 9**  
+I can feel a firm determination hahahahahahahahaha   
+  
+![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **It's a raspberry**  
+Take care of your hands ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ   
+  
+![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Tangerine, tangerine!**  
+You just need to hit the points on the open line   
+  
+![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Blea**  
+Cat: Will I be able to get inside today...   
+  
+![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Uljip Dog Name Nori**  
+Stop three colors haha   
+  
 
-![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment.icon} **은하철도9부려**  
-굳은 의지가 느껴진다ㅋㅋㅋㅋㅋㅋㅋㅋㅋ   
-
-![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment.icon} **라즈라즈베리에요**  
-손조심 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ   
-
-![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment.icon} **귤,귤!**  
-열리는 라인에 포인트만 잘치면 되는디   
-
-![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment.icon} **블레아**  
-고양이: 오늘 안에 딸 수 있을까...   
-
-![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment.icon} **울집개이름놀놀이**  
-삼색이그만 ㅋㅋ   
