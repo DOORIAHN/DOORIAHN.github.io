@@ -18,16 +18,16 @@ I guess only the handle of the can lid fell off hahahahahahaha
 
 * * *
 
-![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Galaxy Railway 9**  
+![comment](/assets/character/bat.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Galaxy Railway 9**  
 I can feel a firm determination hahahahahahahahaha   
   
-![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **It's a raspberry**  
+![comment](/assets/character/bee.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **It's a raspberry**  
 Take care of your hands ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ   
   
-![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Tangerine, tangerine!**  
+![comment](/assets/character/mask.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Tangerine, tangerine!**  
 You just need to hit the points on the open line   
   
-![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Blea**  
+![comment](/assets/character/plant.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Blea**  
 Cat: Will I be able to get inside today...   
   
 ![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Uljip Dog Name Nori**  
