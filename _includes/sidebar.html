@@ -18,4 +18,39 @@
   </div>
 {% endif %}
 
-ㅁㄴㅇㄹ
+
+<div id="sideLeft" style="width:300px;float:left;margin-right:10px;">
+  <div class="sidebar-nav-item">Category</div>
+  <nav class="content-ul">
+    {% for category in site.categories %}
+    <a href="{{ root_url }}/{{ site.category_dir }}#{{ category | first }}"
+       class="sidebar-nav-item pl-3rem">
+                          <span class="name">
+                              {{ category | first }}
+                          </span>
+      <span class="badge">{{ category | last | size }}</span>
+    </a>
+    {% endfor %}
+  </nav>
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- CD.KAUDO.COM 300X1050 1 -->
+  <ins class="adsbygoogle"
+       style="display:block;width:300px;height:1050px;"
+       data-ad-client="ca-pub-5585342941485872"
+       data-ad-slot="7726067347"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- CD.KAUDO.COM 300X1050 2 -->
+  <ins class="adsbygoogle"
+       style="display:block;width:300px;height:1050px;"
+       data-ad-client="ca-pub-5585342941485872"
+       data-ad-slot="5494833280"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>

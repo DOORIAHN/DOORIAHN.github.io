@@ -6,8 +6,11 @@
   @include clearfix;
   margin-left: auto;
   margin-right: auto;
+  /*
   padding-left: 1em;
   padding-right: 1em;
+  */
+  padding:0 10px;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   max-width: 100%;
@@ -35,7 +38,31 @@ body {
   flex: 1 0 auto;
 }
 
+#sideLeft{
+  display:none;
+  @include breakpoint($small){
+  }
+  @include breakpoint($medium) {
+    display:block;
+  }
+  @include breakpoint($large) {
+    float:left;
+    background-color:red;
+  }
+
+
+}
+
 .page {
+  float:left;
+  width:600px;
+  /*
+  @include breakpoint($medium) {
+    float: right;
+    width: calc(100% - #{$right-sidebar-width-narrow});
+    padding-right: $right-sidebar-width-narrow;
+  }
+
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
@@ -46,6 +73,7 @@ body {
     width: calc(100% - #{$right-sidebar-width});
     padding-right: $right-sidebar-width;
   }
+  */
 
   .page__inner-wrap {
     float: left;
