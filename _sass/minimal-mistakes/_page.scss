@@ -17,9 +17,13 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
 
+  @include breakpoint($medium) {
+    padding-left:320px;
+  }
   @include breakpoint($x-large) {
     max-width: $max-width;
   }
+
 }
 
 body {
@@ -38,19 +42,30 @@ body {
   flex: 1 0 auto;
 }
 
-#sideLeft{
+#areaLeft{
   display:none;
+  position:fixed;
+  left:10px;
   @include breakpoint($small){
   }
   @include breakpoint($medium) {
     display:block;
   }
   @include breakpoint($large) {
-    float:left;
-    background-color:red;
+    background-color:yellow;
   }
+}
 
-
+#areaRight{
+  width:300px;
+  right:10px;
+  position:fixed;
+  float:right;
+  display:none;
+  @include breakpoint($large) {
+    display:block;
+    background-color:silver;
+  }
 }
 
 .page {
@@ -543,6 +558,7 @@ body {
   margin-top: 2em;
   padding-top: 1em;
   border-top: 1px solid $border-color;
+  width:100%;
 
   @include breakpoint($large) {
     float: right;

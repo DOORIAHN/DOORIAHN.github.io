@@ -23,8 +23,6 @@ $(document).ready(function() {
   stickySideBar();
   */
 
-
-
   $(window).resize(function() {
     //stickySideBar();
   });
