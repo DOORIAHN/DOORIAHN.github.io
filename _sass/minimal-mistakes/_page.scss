@@ -46,25 +46,26 @@ body {
   display:none;
   position:fixed;
   left:10px;
+  top:50px;
   @include breakpoint($small){
   }
   @include breakpoint($medium) {
     display:block;
   }
   @include breakpoint($large) {
-    background-color:yellow;
+
   }
 }
 
 #areaRight{
   width:300px;
   right:10px;
+  top:50px;
   position:fixed;
   float:right;
   display:none;
   @include breakpoint($large) {
     display:block;
-    background-color:silver;
   }
 }
 
