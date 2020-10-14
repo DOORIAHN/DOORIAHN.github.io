@@ -42,11 +42,13 @@ $(function() {
       numOfVisibleItems += 1;
       check();
     }
-    // Update the button accordingly
+    /* Update the button accordingly
     $btn.attr("count", numOfItems - numOfVisibleItems);
     if (numOfVisibleItems === numOfItems) {
       $btn.addClass('hidden');
     } else $btn.removeClass('hidden');
+    */
+    $btn.removeClass('hidden');
   }
 
   // Window listeners

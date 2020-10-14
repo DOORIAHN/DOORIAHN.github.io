@@ -6,7 +6,7 @@ $(document).ready(function() {
   // FitVids init
   $("#main").fitVids();
 
-  // Sticky sidebar
+  /* Sticky sidebar
   var stickySideBar = function() {
     var show =
       $(".author__urls-wrapper button").length === 0
@@ -20,11 +20,13 @@ $(document).ready(function() {
       $(".sidebar").removeClass("sticky");
     }
   };
-
   stickySideBar();
+  */
+
+
 
   $(window).resize(function() {
-    stickySideBar();
+    //stickySideBar();
   });
 
   // Follow menu drop down
