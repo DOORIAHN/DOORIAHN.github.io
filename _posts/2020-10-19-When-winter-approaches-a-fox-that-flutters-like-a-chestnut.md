@@ -34,19 +34,19 @@ Straight hair
 
 * * *
 
-![comment](/assets/character/mask.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Isiguk**  
+![comment](/assets/character/plant.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Isiguk**  
 Chestnut   
   
-![comment](/assets/character/turtle.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Galaxy Railway 9**  
+![comment](/assets/character/snail.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Galaxy Railway 9**  
 I want to touch it......   
   
-![comment](/assets/character/bee.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Eat right food♧**  
+![comment](/assets/character/frog.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Eat right food♧**  
 Oh it's cute   
   
-![comment](/assets/character/duck.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **East Projects**  
+![comment](/assets/character/rino.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **East Projects**  
 Cute   
   
-![comment](/assets/character/snail.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Common grim reaper**  
+![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Common grim reaper**  
 Winter fox and window fox rim   
   
 

@@ -16,19 +16,19 @@ comments: true
 
 * * *
 
-![comment](/assets/character/chicken.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Avoidance avoidance avoidance avoidance**  
+![comment](/assets/character/bird.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Avoidance avoidance avoidance avoidance**  
 Hey, it's like you're out there   
   
-![comment](/assets/character/pig.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Dry your body**  
+![comment](/assets/character/bee.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Dry your body**  
 this   
   
-![comment](/assets/character/skull.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Mango99**  
+![comment](/assets/character/mushroom.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Mango99**  
 No!!!!   
   
-![comment](/assets/character/plant.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Singapura**  
+![comment](/assets/character/bunny.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Singapura**  
 Even if I don't have any eyes to see, how can I do that!   
   
-![comment](/assets/character/snail.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Funny kimchi girl**  
+![comment](/assets/character/rino.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Funny kimchi girl**  
 That's why I have a lot of girlfriends   
   
 

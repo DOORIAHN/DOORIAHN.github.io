@@ -22,19 +22,19 @@ Hey guys...?
 
 * * *
 
-![comment](/assets/character/mushroom.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **good luck!**  
-Guys, don't write, let's say,'Oh!' I'm reading all my friends so go with me~  
+![comment](/assets/character/rino.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **good luck!**  
+Guys, don't write me, I said,'Oh!' I'm reading all my friends so go with me~  
   
-![comment](/assets/character/mask.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **♡**  
+![comment](/assets/character/turtle.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **♡**  
 The pictures are cute and the comments are cute^^   
   
-![comment](/assets/character/rino.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Yellow duck**  
+![comment](/assets/character/frog.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Yellow duck**  
 Mr. Gikoshwell, wake up.   
   
-![comment](/assets/character/chicken.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Sleeping torch**  
-Anything you grow with a welsh tail must crush a head   
+![comment](/assets/character/bird.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Sleeping torch**  
+Anything you grow a welsh tail must crush a head   
   
-![comment](/assets/character/turtle.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **10 breaths before sleeping**  
+![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **10 breaths before sleeping**  
 Pretending not to know...   
   
 

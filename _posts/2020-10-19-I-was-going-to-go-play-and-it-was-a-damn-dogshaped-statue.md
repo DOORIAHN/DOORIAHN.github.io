@@ -24,19 +24,19 @@ comments: true
 
 * * *
 
-![comment](/assets/character/snail.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Eat right food♧**  
-I was excited to play with Dang Dang, but when I know it's a fake, I get angry too   
+![comment](/assets/character/bat.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Eat right food♧**  
+I was excited to play with Dang Dang, but when I know it's a fake, I get angry too.   
   
-![comment](/assets/character/skull.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Galaxy Railway 9**  
+![comment](/assets/character/goggle.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Galaxy Railway 9**  
 Wow, well made   
   
-![comment](/assets/character/turtle.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **“:”:”:”:”:**  
-There's a hidden camera on top   
+![comment](/assets/character/bunny.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **“:”:”:”:”:**  
+There's a sneak camera on top hahahahaha   
   
-![comment](/assets/character/bee.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **smart.**  
+![comment](/assets/character/skull.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **smart.**  
 It was real   
   
-![comment](/assets/character/pig.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Potato Chips**  
-If you leave it in a house with a cat, it will be upset.   
+![comment](/assets/character/mask.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Potato Chips**  
+If you leave it in a house with a cat, it will be crazy.   
   
 

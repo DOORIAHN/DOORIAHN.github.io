@@ -24,19 +24,19 @@ Bread
 
 * * *
 
-![comment](/assets/character/mask.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **ㅤㅤㅤㅤㅤㅤㅤ.**  
+![comment](/assets/character/duck.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **ㅤㅤㅤㅤㅤㅤㅤ.**  
 Haha hahahaha   
   
-![comment](/assets/character/goggle.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **I am a special girl**  
+![comment](/assets/character/mask.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **I am a special girl**  
 I envy you   
   
-![comment](/assets/character/chicken.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Caruko**  
+![comment](/assets/character/bunny.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Caruko**  
 Oven?   
   
-![comment](/assets/character/skull.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Ugh :)**  
+![comment](/assets/character/frog.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Ugh :)**  
 Do you think you're living in one-room and making money with a fold cat?   
   
-![comment](/assets/character/pig.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Bored**  
+![comment](/assets/character/rino.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Bored**  
 Oh, it's harmful to the heart.   
   
 

@@ -54,19 +54,19 @@ Hahaha big cat
 
 * * *
 
-![comment](/assets/character/ghost.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Avoidance avoidance avoidance avoidance**  
-I'm not surprised, I was just playing but you came out   
+![comment](/assets/character/mushroom.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Avoidance avoidance avoidance avoidance**  
+I'm not surprised, I was just playing, but you came out   
   
-![comment](/assets/character/frog.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Good job crackdown on Taejeong Posture.**  
-ㅋㅋㅋㅋㅋ Dad was good at acting ㅋㅋㅋㅋ   
+![comment](/assets/character/turtle.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Good job crackdown on Taejeong Posture.**  
+ㅋㅋㅋㅋㅋ Dad was good at acting ㅋㅋㅋ   
   
-![comment](/assets/character/snail.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **K HO9**  
-ㅋㄱㅋㄱㅋㄱㅋㄱㅋㅋㅋ It's funny ㅋㅋㅋㅋㅋ   
+![comment](/assets/character/skull.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **K HO9**  
+ㅋㄱㅋㄱㅋㄱㅋㄱㅋㅋㅋ It's funny   
   
-![comment](/assets/character/bat.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Life**  
-The cats like to play around and surprise them lol   
+![comment](/assets/character/trunk.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Life**  
+Cats like to play around and surprise them haha   
   
-![comment](/assets/character/rino.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Dori-dori-kakkung-kong**  
-I don't know if that's the case, but once my cat is deliberately hiding and trying to pass by, it will surprise her with paws.   
+![comment](/assets/character/goggle.png){:style="width:30px;height:30px;vertical-align:sub;" .comment_icon} **Dori-dori-kakkung-kong**  
+I don't know if all of that is the case, but once my cat is deliberately hiding and trying to pass by, it will surprise him with his paws.   
   
 
